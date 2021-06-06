@@ -1,0 +1,15 @@
+{
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3",
+    "vite": "2.2.4"
+  },
+  "dependencies": {
+    "memoize-one": "^5.2.1"
+  }
+}
